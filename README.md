@@ -8,7 +8,7 @@ Players take turns putting their marks in empty boxes. The first player to get 3
 
 Technology I have use are HTML, CSS, and JavaScript.
 
-Thngs I plan to add:
+Things I plan to add:
 1- play vs computer.
 2- add players names.
 3- Player can choose 'X' or 'O'. 
@@ -17,5 +17,14 @@ Special Thanks to my  Instructors:
 Mr. Trevor Preston.
 Ms. Jackie
 Ms. Ghadeer
+
+
+
+
+
+
+
+Link of my game :
+https://nawafi.github.io/Project1/
 
 
